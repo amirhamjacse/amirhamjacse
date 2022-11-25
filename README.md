@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Amir Hamja</h1>
 <h3 align="center">A passionate python django full stack developer from Bangladesh</h3>
 
- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
