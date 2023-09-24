@@ -21,6 +21,10 @@
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
+        <td align="center">
+      <img alt="Vuejs" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <br>VueJs
+    </td>
     <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
@@ -60,8 +64,20 @@
       <br>linux
     </td>
     <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <img alt="VsCode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <br>VsCode
+    </td>
+     <td align="center">
+      <img alt="Pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>Pycharm
+    </td>
+     <td align="center">
+      <img alt="Ubuntu" height=64px src="https://camo.githubusercontent.com/3e8e4170de9ac8fc3a7bbe397f78556429a19e26dbefe7020d1e8c25c6ace93c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7562756e74752f7562756e74752d706c61696e2e737667">
+      <br>Ubuntu
+    </td>
+    <td align="center">
+          <img alt="Mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>Mysql
     </td>
   </tr>
 </table>
