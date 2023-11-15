@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Md Amir Hamja</h1>
-<h3 align="center">A passionate python django full stack developer from Bangladesh</h3>
+<h3 align="center">Passionate Full Stack Software Developer</h3>
+
+<p> <h4>Professional Journey</h4>
+For the past year, I've been a part of the talented team at Tiger Park Limited, where I've actively contributed to some major project. My primary focus has been on leveraging Python, Django, Django Rest Framework (DRF) and Vuejs to craft robust and scalable solutions.
+
+<h4>Passion for Problem Solving</h4>
+I'm not just a software engineer; I'm a tech enthusiast with a deep-seated passion for problem-solving. I thrive on the challenges that come with each project, utilizing my analytical mindset and coding prowess to overcome obstacles and deliver efficient solutions.
+
+<h4>Python and Django Aficionado</h4>
+My expertise lies in Python and Django, and I find joy in crafting elegant, maintainable code. Whether it's developing backend logic, creating APIs with DRF, or solving intricate coding puzzles, I'm constantly refining my skills to stay at the forefront of the ever-evolving tech landscape.
+
+<h4>Always Eager to Learn</h4>
+In this fast-paced industry, I believe in the power of continuous learning. I'm committed to staying abreast of the latest technologies and methodologies, ensuring that my skill set remains both relevant and innovative.</p>
 
 
 <h3 align="left">Connect with me:</h3>
