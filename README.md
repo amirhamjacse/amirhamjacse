@@ -2,7 +2,10 @@
 <h3 align="center">Passionate Full Stack Software Developer</h3>
 
 <p> <h4>Professional Journey</h4>
-For the past year, I've been a part of the talented team at Tiger Park Limited, where I've actively contributed to some major project. My primary focus has been on leveraging Python, Django, Django Rest Framework (DRF) and Vuejs to craft robust and scalable solutions.
+Over the past few years, I’ve had the privilege of working with dynamic teams across leading tech companies.
+I started my professional journey at Tiger Park Limited, where I actively contributed to major projects, primarily leveraging Python, Django, Django Rest Framework (DRF), and Vue.js to build robust and scalable solutions.
+Later, I joined GProjukti Limited as a Backend Developer, further strengthening my expertise in developing efficient, secure, and maintainable APIs and backend systems.
+Currently, I’m working at Dream71 Bangladesh Limited, where I continue to design and implement innovative solutions that align with business goals and enhance user experience.
 
 <h4>Passion for Problem Solving</h4>
 I'm not just a software engineer; I'm a tech enthusiast with a deep-seated passion for problem-solving. I thrive on the challenges that come with each project, utilizing my analytical mindset and coding prowess to overcome obstacles and deliver efficient solutions.
